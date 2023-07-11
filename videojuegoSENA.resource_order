@@ -15,8 +15,10 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"soplamonda","order":3,"path":"folders/Sprites/soplamonda.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_costenorunin","order":1,"path":"sprites/spr_costenorunin/spr_costenorunin.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"solesito","order":1,"path":"objects/solesito/solesito.yy",},
     {"name":"sol","order":2,"path":"sprites/sol/sol.yy",},

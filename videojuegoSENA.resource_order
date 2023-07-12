@@ -18,9 +18,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Spr_parao","order":2,"path":"sprites/Spr_parao/Spr_parao.yy",},
+    {"name":"arbolito","order":3,"path":"objects/arbolito/arbolito.yy",},
     {"name":"spr_costenorunin","order":1,"path":"sprites/spr_costenorunin/spr_costenorunin.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"arbol","order":5,"path":"sprites/arbol/arbol.yy",},
     {"name":"solesito","order":1,"path":"objects/solesito/solesito.yy",},
     {"name":"sol","order":2,"path":"sprites/sol/sol.yy",},
   ],

@@ -13,11 +13,12 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"soplamonda","order":3,"path":"folders/Sprites/soplamonda.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"soplamonda","order":3,"path":"folders/Sprites/soplamonda.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Spr_parao","order":2,"path":"sprites/Spr_parao/Spr_parao.yy",},
     {"name":"spr_costenorunin","order":1,"path":"sprites/spr_costenorunin/spr_costenorunin.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"solesito","order":1,"path":"objects/solesito/solesito.yy",},

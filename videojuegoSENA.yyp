@@ -37,11 +37,13 @@
   "resources": [
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
+    {"id":{"name":"tile_set_ciudad","path":"tilesets/tile_set_ciudad/tile_set_ciudad.yy",},},
     {"id":{"name":"Spr_parao","path":"sprites/Spr_parao/Spr_parao.yy",},},
     {"id":{"name":"arbolito","path":"objects/arbolito/arbolito.yy",},},
     {"id":{"name":"spr_costenorunin","path":"sprites/spr_costenorunin/spr_costenorunin.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"arbol","path":"sprites/arbol/arbol.yy",},},
+    {"id":{"name":"spr_ciudad","path":"sprites/spr_ciudad/spr_ciudad.yy",},},
     {"id":{"name":"player_monda","path":"objects/player_monda/player_monda.yy",},},
     {"id":{"name":"solesito","path":"objects/solesito/solesito.yy",},},
     {"id":{"name":"spr_costeno","path":"sprites/spr_costeno/spr_costeno.yy",},},

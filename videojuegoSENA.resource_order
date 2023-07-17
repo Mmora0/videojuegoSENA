@@ -25,6 +25,7 @@
     {"name":"spr_costenorunin","order":1,"path":"sprites/spr_costenorunin/spr_costenorunin.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"arbol","order":5,"path":"sprites/arbol/arbol.yy",},
+    {"name":"spr_ciudad","order":6,"path":"sprites/spr_ciudad/spr_ciudad.yy",},
     {"name":"solesito","order":1,"path":"objects/solesito/solesito.yy",},
     {"name":"sol","order":2,"path":"sprites/sol/sol.yy",},
   ],

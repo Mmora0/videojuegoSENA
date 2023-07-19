@@ -1,5 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-with(other){
-	image_blend = c_green;
+with (other){
+	image_blend = c_yellow;
 }

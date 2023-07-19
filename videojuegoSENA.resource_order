@@ -20,11 +20,15 @@
   "ResourceOrderSettings": [
     {"name":"onj_hazard","order":4,"path":"objects/onj_hazard/onj_hazard.yy",},
     {"name":"pared","order":2,"path":"objects/pared/pared.yy",},
+    {"name":"obj_goto2","order":12,"path":"sprites/obj_goto2/obj_goto2.yy",},
     {"name":"Sprite12","order":10,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"Sprite11","order":9,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Object8","order":7,"path":"objects/Object8/Object8.yy",},
+    {"name":"objj_goto","order":9,"path":"objects/objj_goto/objj_goto.yy",},
+    {"name":"spr_goto","order":11,"path":"sprites/spr_goto/spr_goto.yy",},
     {"name":"Spr_parao","order":2,"path":"sprites/Spr_parao/Spr_parao.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_hazard","order":7,"path":"sprites/spr_hazard/spr_hazard.yy",},
     {"name":"arbolito","order":3,"path":"objects/arbolito/arbolito.yy",},
     {"name":"spr_costenorunin","order":1,"path":"sprites/spr_costenorunin/spr_costenorunin.yy",},
@@ -35,6 +39,7 @@
     {"name":"Sprite10","order":8,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"solesito","order":1,"path":"objects/solesito/solesito.yy",},
     {"name":"spr_hazard2","order":5,"path":"objects/spr_hazard2/spr_hazard2.yy",},
+    {"name":"obj_goto","order":8,"path":"objects/obj_goto/obj_goto.yy",},
     {"name":"sol","order":2,"path":"sprites/sol/sol.yy",},
   ],
 }

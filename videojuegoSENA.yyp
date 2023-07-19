@@ -35,10 +35,12 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
-    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
+    {"id":{"name":"onj_hazard","path":"objects/onj_hazard/onj_hazard.yy",},},
+    {"id":{"name":"pared","path":"objects/pared/pared.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"tile_set_ciudad","path":"tilesets/tile_set_ciudad/tile_set_ciudad.yy",},},
     {"id":{"name":"Spr_parao","path":"sprites/Spr_parao/Spr_parao.yy",},},
+    {"id":{"name":"spr_hazard","path":"sprites/spr_hazard/spr_hazard.yy",},},
     {"id":{"name":"arbolito","path":"objects/arbolito/arbolito.yy",},},
     {"id":{"name":"spr_costenorunin","path":"sprites/spr_costenorunin/spr_costenorunin.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},

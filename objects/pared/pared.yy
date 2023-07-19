@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object3",
+  "name": "pared",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"player_monda","path":"objects/player_monda/player_monda.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -37,5 +37,5 @@
     "path": "sprites/Sprite6/Sprite6.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

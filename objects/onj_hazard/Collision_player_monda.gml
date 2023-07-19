@@ -1,3 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-spd = 4;
+with(other){
+	image_blend = c_green;
+}
+depth = -y;

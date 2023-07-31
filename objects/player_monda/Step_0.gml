@@ -1,42 +1,44 @@
-/// @description Inserte aquí la descripción
+/// @description Inserte aquí la descri ión
 // Puede escribir su código en este editor
-if (keyboard_check(vk_right)){
+Script1()
+
+if (right){
 	x = x+spd;
 	sprite_index = spr_costenorunin;
 	image_xscale = 1;
 }
-else if (keyboard_check(vk_left) ){
+else if (left){
 	x = x-spd;
 	sprite_index = spr_costenorunin;
 	image_xscale = -1;
 }
-else if (keyboard_check(vk_up)){
+else if (up){
 	y = y-spd;
 	sprite_index = spr_costenorunin;
 }
-else if (keyboard_check(vk_down)){
+else if (down){
 	y = y+spd;
 	sprite_index = spr_costenorunin;
 }
 else {
-	sprite_index = Spr_parao;
+	sprite_index = Spr_parao; 
 }
 
-if (keyboard_check(ord("D"))){
+if (derecha){
 	x = x+spd;
 	sprite_index = spr_costenorunin;
 	image_xscale = 1;
 }
-else if (keyboard_check(ord("A"))){
+else if (izquierda){
 	x = x-spd;
 	sprite_index = spr_costenorunin;
 	image_xscale = -1;
 }
-else if (keyboard_check(ord("W"))){
+else if (arriba){
 	y = y-spd;
 	sprite_index = spr_costenorunin;
 }
-else if (keyboard_check(ord("S"))){
+else if (abajo){
 	y = y+spd;
 	sprite_index = spr_costenorunin;
 }
